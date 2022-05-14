@@ -4,8 +4,8 @@
 <path d="M0 94H150V130C150 141.046 141.046 150 130 150H20C8.9543 150 0 141.046 0 130V94Z" fill="#D7FDDD"/>
 <rect x="36.836" y="78.6421" width="8.06006" height="40.3003" rx="4.03003" transform="rotate(-90 36.836 78.6421)" fill="#C4E7C1"/>
 <rect x="52.1501" y="54.4619" width="8.06006" height="40.3003" rx="4.03003" fill="#C4E7C1"/>
-<circle cx="99.0739" cy="87.2382" r="4.03003" transform="rotate(-45 99.0739 87.2382)" fill="#C0FBBF"/>
-<circle cx="86.5354" cy="74.6998" r="4.03003" transform="rotate(-45 86.5354 74.6998)" fill="#E8FFCC"/>
-<circle cx="99.0739" cy="62.1612" r="4.03003" transform="rotate(-45 99.0739 62.1612)" fill="#C0FBBF"/>
-<circle cx="111.612" cy="74.6998" r="4.03003" transform="rotate(-45 111.612 74.6998)" fill="#E8FFCC"/>
+<circle cx="99.0738" cy="87.2382" r="4.03003" transform="rotate(-45 99.0738 87.2382)" fill="#C0FBBF"/>
+<circle cx="86.5353" cy="74.6998" r="4.03003" transform="rotate(-45 86.5353 74.6998)" fill="#CEFECD"/>
+<circle cx="99.0738" cy="62.1612" r="4.03003" transform="rotate(-45 99.0738 62.1612)" fill="#C0FBBF"/>
+<circle cx="111.612" cy="74.6998" r="4.03003" transform="rotate(-45 111.612 74.6998)" fill="#CEFECD"/>
 </svg>
