@@ -1,4 +1,4 @@
 # Limecons
 An icon collection.
 Elegant icons made with love <3.
-![Limecons](https://user-images.githubusercontent.com/81488600/168444021-4b36ff30-df27-4f0a-9c82-a810cc481484.png)
+![Limecons](https://user-images.githubusercontent.com/81488600/168449187-0b07aa59-9652-4dcc-bb56-fc5e686b786a.png)
